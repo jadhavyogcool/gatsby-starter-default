@@ -12,7 +12,7 @@ const IndexPage = () => (
     <p>Welcome to My New Website</p>
     <p>THis website is built by using gatsby cloud</p>
     <StaticImage
-      src="../images/gatsby-astronaut.png"
+      src="../images/ganesha_PNG18.png"
       width={300}
       quality={95}
       formats={["auto", "webp", "avif"]}
